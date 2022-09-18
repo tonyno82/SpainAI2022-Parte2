@@ -14,3 +14,19 @@ O si quieres, escribenos a:
 * Enrique Josue Álvarez: [ejarkm@gmail.com](mailto:ejarkm@gmail.com)
 * Lino Figueroa: [impalah@gmail.com](mailto:impalah@gmail.com)
 
+
+NOTAS :
+En MacOs macOS 12.6 (21G115) con M1
+
+Hay alguns modificaciones en requeriments.txt
+hay que instalar en compilador de rust
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+Haciendo pruebas tambien he instalado (no se si es necesario):
+rustup install nightly
+
+Hay que instalar xcode-select
+$ xcode-select --install
+
+¿Hay que instalar xcode a secas? no lo se, yo lo tengo instalado
+
